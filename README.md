@@ -1,2 +1,1 @@
-"# forkify" 
-"# forkify" 
+This app is made to get recipes from an API
