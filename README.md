@@ -1,7 +1,3 @@
-Tech: 
-
-General Use: This was an app designed by Jonas Schmedtmann but built by me. Its purpose is to have users search for ingredients or foods they are interested in, and return recipes related to it. 
-
 # Forkify
 
 This app was designed by Jonas Schmedtmann, built by me. It's an app that is made to give the recipes depending on the ingredients they search for. It uses the food2fork api to get back a list of dishes. 
