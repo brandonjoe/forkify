@@ -1,3 +1,25 @@
-Tech: html, css, javascript, axios, webpack, babel
+Tech: 
 
 General Use: This was an app designed by Jonas Schmedtmann but built by me. Its purpose is to have users search for ingredients or foods they are interested in, and return recipes related to it. 
+
+# Forkify
+
+This app was designed by Jonas Schmedtmann, built by me. It's an app that is made to give the recipes depending on the ingredients they search for. It uses the food2fork api to get back a list of dishes. 
+
+### General use
+
+To use this app, you can simply search in the in the given search bar on top. It will fetch data and give you a list on the side. A recipe will appear and you wil be able to scale the dishes depending on how many people this dish will serve. 
+
+### Future use
+
+There are currently no plans for this project in the future
+
+### Tech 
+
+```
+html, css, javascript, axios, webpack, babel
+```
+
+### Demo
+
+[Live Demo](https://brandonjoe.github.io/forkify/)
